@@ -107,3 +107,24 @@ Requirement Analysis involves several key activities that help define, document,
 
 These activities form a continuous, iterative process, ensuring that the requirements evolve to reflect stakeholder needs and that the final system delivers value to the business and users.
 
+
+## Types of Requirements
+
+### 1. **Functional Requirements**
+
+Functional requirements define the specific functions and behaviors the system must support. These are the "what" the system must do to meet the needs of the users and business.
+
+For the **Booking Management System**, examples include:
+- **Hotel Search**: Users must be able to search for hotels based on location, price, and dates.
+- **Booking Process**: Users should be able to book rooms and receive a booking confirmation.
+- **Payment Integration**: Users can make payments through third-party payment services like Stripe or PayPal.
+
+### 2. **Non-functional Requirements**
+
+Non-functional requirements describe how the system performs and defines the system's quality attributes. These focus on the "how" the system will operate under certain conditions.
+
+For the **Booking Management System**, examples include:
+- **Scalability**: The system must handle a growing number of users and hotel listings without significant performance degradation.
+- **Availability**: The system must ensure high availability, with uptime of 99.99%.
+- **Performance**: The system should respond to user requests within 2 seconds for hotel search results.
+
