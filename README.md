@@ -128,3 +128,17 @@ For the **Booking Management System**, examples include:
 - **Availability**: The system must ensure high availability, with uptime of 99.99%.
 - **Performance**: The system should respond to user requests within 2 seconds for hotel search results.
 
+## Use Case Diagrams
+
+Use Case Diagrams are visual representations of the interactions between different actors (users or systems) and the functionalities of a system. They help in defining the system's behavior by showing what users can do with the system and how the system responds.
+
+### Benefits of Use Case Diagrams:
+- Clarifies the scope of the system.
+- Helps stakeholders visualize functional requirements.
+- Assists in identifying system interactions and dependencies.
+
+### Use Case Diagram for Booking System
+
+Here is the use case diagram for the booking management system, showcasing the actors and their interactions with various use cases:
+
+![Use Case Diagram](alx-booking-uc.png)
