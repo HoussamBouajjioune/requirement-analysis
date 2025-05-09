@@ -75,3 +75,35 @@ Well-defined requirements lead to the development of software that better matche
 
 In conclusion, **Requirement Analysis** ensures that the development process is efficient, aligned with business objectives, and focused on delivering high-quality software that meets user expectations. It significantly reduces risks, avoids costly changes later in the project, and lays the foundation for a successful product.
 
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities that help define, document, and validate the needs of stakeholders and users. These activities ensure that the software being developed will align with business goals and user expectations. Below are the five key activities involved in Requirement Analysis:
+
+### 1. **Requirement Gathering**
+- **Purpose**: The first step in the requirement analysis process is gathering information from stakeholders, end-users, and subject matter experts to understand what they need from the system.
+- **Methods**: Interviews, surveys, questionnaires, focus groups, and reviewing existing documentation or systems.
+- **Outcome**: A list of initial requirements that serve as the foundation for further analysis and refinement.
+
+### 2. **Requirement Elicitation**
+- **Purpose**: Elicitation focuses on extracting detailed information from stakeholders about their expectations, goals, and constraints for the system.
+- **Methods**: Workshops, brainstorming sessions, observation, and prototyping.
+- **Outcome**: A clearer understanding of user needs, use cases, and system functionality, leading to a refined list of requirements.
+
+### 3. **Requirement Documentation**
+- **Purpose**: Once the requirements are gathered and elicited, they need to be documented clearly and precisely to ensure they are understandable, testable, and traceable.
+- **Methods**: Writing functional and non-functional requirements, creating user stories, and documenting business rules.
+- **Outcome**: A well-organized and comprehensive requirements document (e.g., a Software Requirements Specification or SRS) that acts as a blueprint for development.
+
+### 4. **Requirement Analysis and Modeling**
+- **Purpose**: In this phase, the requirements are analyzed, refined, and modeled to ensure they are complete, consistent, and feasible.
+- **Methods**: Use case diagrams, data flow diagrams (DFD), entity-relationship diagrams (ERD), and flowcharts.
+- **Outcome**: Visual models that represent system components, user interactions, and data flows, providing a clear understanding of how the system will operate.
+
+### 5. **Requirement Validation**
+- **Purpose**: The final activity involves validating the documented requirements to ensure they are accurate, complete, and aligned with the business goals.
+- **Methods**: Reviewing the requirements with stakeholders, conducting walkthroughs, and performing feasibility studies.
+- **Outcome**: A validated set of requirements that stakeholders approve, confirming that the system will meet their needs and expectations before development begins.
+
+These activities form a continuous, iterative process, ensuring that the requirements evolve to reflect stakeholder needs and that the final system delivers value to the business and users.
+
